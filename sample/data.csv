@@ -1,0 +1,8 @@
+order_id,customer_id,order_date,product_id,product_name,category,price,quantity,payment_method,delivery_status,rating
+1,101,2023-11-01 12:23:45,301,Smartphone,Electronics,699.99,1,Credit Card,Delivered,5
+2,102,2023-11-02 09:15:30,302,Laptop,Electronics,1199.99,1,PayPal,Delivered,4
+3,103,2023-11-03 14:50:10,303,Headphones,Electronics,199.99,2,Credit Card,Pending,4
+4,101,2023-11-04 16:23:00,304,Bookshelf,Furniture,149.99,1,PayPal,Delivered,5
+5,104,2023-11-05 10:00:00,305,Desk,Furniture,299.99,1,Credit Card,Delivered,3
+6,102,2023-11-06 11:35:00,306,Office Chair,Furniture,199.99,1,PayPal,Pending,4
+7,105,2023-11-07 14:20:00,307,Running Shoes,Sports,89.99,1,Credit Card,Delivered,5
